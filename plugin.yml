@@ -1,0 +1,7 @@
+name: FixMvts
+main: UnknownOre\FixMvts\Main
+version: 0.0.1
+api: 3.11.5
+load: POSTWORLD
+author: UnknownOre
+description: a plugin
