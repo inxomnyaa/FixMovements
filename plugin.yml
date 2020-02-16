@@ -1,7 +1,9 @@
+---
 name: FixMvts
 main: UnknownOre\FixMvts\Main
-version: 0.0.1
-api: 3.11.5
+version: 0.0.2
+api: ["3.11"]
 load: POSTWORLD
-author: UnknownOre
-description: a plugin
+authors: [UnknownOre, XenialDan]
+description: Hacky fix for movement by a fucking noob and moron that has no idea of PMMP, fixed by the genius XenialDan
+...
